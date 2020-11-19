@@ -19,7 +19,7 @@ def setup():
 def banner():
     os.system('clear')
     print(a+'Shortcut for help you'.center(40))
-    print(b+'Karjok Pangesty'.center(40))
+    print(b+'R I C O S I N U R A T'.center(40))
     print("".join([i for i in "\n"*3]))
 
 
@@ -33,7 +33,7 @@ if __name__=='__main__':
             print('\rPlease wait '+i+' ',end="",flush=True)
             sleep(0.1)
     banner()
-    print(c+'Silahkan hubungi '+a+'https://t.me/om_karjok'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
+    print(c+'Silahkan hubungi '+a+'https://t.me/rvlt144'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
 
 # ini cuma shortcut buat bantu para nub
-# karjok pangesty
+# R i c o S i n u r a t
